@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "main": "expo-router/entry",
   "type": "commonjs",
-   "scripts": {
+  "scripts": {
     "generate-assets": "bun run scripts/generate-asset-images.js",
     "prestart": "bun run generate-assets",
     "start": "expo start",
@@ -33,7 +33,6 @@
     "@react-native-community/netinfo": "11.4.1",
     "@react-native-community/slider": "4.5.6",
     "@react-native-masked-view/masked-view": "0.3.2",
-    "@react-native-menu/menu": "1.2.2",
     "@react-native-picker/picker": "2.11.1",
     "@react-native-segmented-control/segmented-control": "2.5.7",
     "@react-navigation/bottom-tabs": "7.3.10",
