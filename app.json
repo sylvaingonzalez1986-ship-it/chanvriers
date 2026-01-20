@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "owner":"les-champs-bretons",
+    "name": "Chanvriers",
+    "slug": "chanvriers",
+    "scheme": "vibecode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.sylvain.x35.vibecode"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2f50df73-7db8-4eff-97e4-57fdc7daf514"
+      }
+    }
+  }
+}
