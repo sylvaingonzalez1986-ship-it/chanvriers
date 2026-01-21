@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63fe6b6b-2919-45e5-b654-ad8165cfd436" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bun.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/app/(tabs)/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/app/(tabs)/explore.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/app/(tabs)/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/app/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/app/modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/android-icon-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/android-icon-foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/android-icon-monochrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/partial-react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/react-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/react-logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/assets/images/splash-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/external-link.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/haptic-tab.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/hello-wave.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/parallax-scroll-view.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/themed-text.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/themed-view.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/ui/collapsible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/ui/icon-symbol.ios.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/components/ui/icon-symbol.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/constants/theme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/eas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/hooks/use-color-scheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/hooks/use-color-scheme.web.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/hooks/use-theme-color.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/scripts/reset-project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chanvriers/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eas.json" beforeDir="false" afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metro.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/metro.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/asset-images.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/asset-images.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38XmMfchE7NRTUi7FgjWyFDlM5O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63fe6b6b-2919-45e5-b654-ad8165cfd436" name="Changes" comment="" />
+      <created>1768954245323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768954245323</updated>
+    </task>
+    <servers />
+  </component>
+</project>

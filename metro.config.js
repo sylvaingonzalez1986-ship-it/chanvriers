@@ -29,6 +29,7 @@ config.resolver = {
   sourceExts: [...sourceExts, "svg"],
   useWatchman: false,
   resolveRequest: (context, moduleName, platform) => {
+    // Mock native-only modules on web
     if (platform === "web") {
       const nativeOnlyModules = [
         "react-native-pager-view",
@@ -37,13 +38,16 @@ config.resolver = {
       ];
 
       if (nativeOnlyModules.some((mod) => moduleName.includes(mod))) {
-        return { type: "empty" };
+        return {
+          type: "empty",
+        };
       }
     }
+
+    // Fallback to default resolution
     return context.resolveRequest(context, moduleName, platform);
   },
 };
 
-module.exports = withNativeWind(withVibecodeMetro(config), {
-  input: "./global.css",
-});
+// Integrate NativeWind with the Metro configuration.
+module.exports = withNativeWind(withVibecodeMetro(config), { input: "./global.css" });

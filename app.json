@@ -1,10 +1,10 @@
 {
   "expo": {
-    "owner":"les-champs-bretons",
+    "owner": "les-champs-bretons",
     "name": "Chanvriers",
     "slug": "chanvriers",
-    "scheme": "vibecode",
-    "version": "1.0.0",
+    "scheme": "chanvriers",
+    "version": "1.0.2",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,7 +13,7 @@
     },
     "android": {
       "edgeToEdgeEnabled": true,
-      "package": "com.sylvain.x35.vibecode"
+      "package": "com.leschampsbretons.chanvriers"
     },
     "plugins": [
       "expo-router"
