@@ -12,7 +12,8 @@
       "supportsTablet": true
     },
     "android": {
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.sylvain.x35.chanvriers"
     },
     "plugins": [
       "expo-router",
@@ -20,7 +21,7 @@
         "expo-build-properties",
         {
           "android": {
-            "kotlinVersion": "1.9.0"
+            "kotlinVersion": "1.8.22"
           }
         }
       ]
